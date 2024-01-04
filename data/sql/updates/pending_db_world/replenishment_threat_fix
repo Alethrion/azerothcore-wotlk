@@ -1,0 +1,3 @@
+--
+INSERT INTO 'spell_threat' (`entry`, `flatMod`, `pctMod`, `apPctMod`) VALUES
+('57669', '0', '0', '0');
